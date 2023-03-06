@@ -27,7 +27,6 @@ const App = () => {
         <FlashcardList flashcards={flashcards} />
         
       </div>
-
     </div>
   )
 }
