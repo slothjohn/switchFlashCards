@@ -45,7 +45,7 @@ GIF created with ...
 
 Learned how to flip a flashcard with CSS
 
-Passed a prop to solve
+Passed a prop to set new card to the front
 
 ## License
 
