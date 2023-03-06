@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] **A single card at a time is displayed, only showing one of the components of the information pair**
 - [x] **A list of card pairs is created**
 - [x] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- [x] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
@@ -24,13 +24,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
+
+  Made sure new flashcards dont repeat themselves.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/W2gd2n5.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -42,6 +44,8 @@ GIF created with ...
 ## Notes
 
 Learned how to flip a flashcard with CSS
+
+Passed a prop to solve
 
 ## License
 
